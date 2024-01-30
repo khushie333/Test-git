@@ -6,3 +6,5 @@
 
 
 some text while stash
+some text from local
+
